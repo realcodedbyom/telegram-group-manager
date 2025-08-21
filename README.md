@@ -221,4 +221,4 @@ Stay updated with the latest features and bug fixes by watching this repository 
 
 ---
 
-Made with 💖 by [Your Username] | Let's make Telegram communities bloom! 🌻
+Made with 💖 by @realcodedbyom | Let's make Telegram communities bloom! 🌻
